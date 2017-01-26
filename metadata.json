@@ -1,0 +1,12 @@
+{
+  "name": "puppetfinland-libreoffice",
+  "version": "0.1.0",
+  "author": "Puppet-Finland team",
+  "license": "BSD license",
+  "summary": "Setup libreoffice",
+  "source": "https://github.com/Puppet-Finland/puppet-libreoffice.git",
+  "project_page": "https://github.com/Puppet-Finland/puppet-libreoffice",
+  "dependencies": [
+    { "name": "chocolatey/chocolatey", "version_requirement": ">= 1.2.0" }
+  ]
+}
